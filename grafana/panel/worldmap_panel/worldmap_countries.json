@@ -48,7 +48,7 @@
     "name": "Netherlands Antilles"
   },
   {
-    "key": "AO",
+    "key": "Angola",
     "latitude": -11.202692,
     "longitude": 17.873887,
     "name": "Angola"
@@ -60,7 +60,7 @@
     "name": "Antarctica"
   },
   {
-    "key": "AR",
+    "key": "Argentina",
     "latitude": -38.416097,
     "longitude": -63.616672,
     "name": "Argentina"
@@ -72,7 +72,7 @@
     "name": "American Samoa"
   },
   {
-    "key": "AT",
+    "key": "Austria",
     "latitude": 47.516231,
     "longitude": 14.550072,
     "name": "Austria"
@@ -96,13 +96,13 @@
     "name": "Åland"
   },
   {
-    "key": "AZ",
+    "key": "Azerbaijan",
     "latitude": 40.143105,
     "longitude": 47.576927,
     "name": "Azerbaijan"
   },
   {
-    "key": "BA",
+    "key": "Bosnia and Herzegovina",
     "latitude": 43.915886,
     "longitude": 17.679076,
     "name": "Bosnia and Herzegovina"
@@ -114,13 +114,13 @@
     "name": "Barbados"
   },
   {
-    "key": "BD",
+    "key": "Bangladesh",
     "latitude": 23.684994,
     "longitude": 90.356331,
     "name": "Bangladesh"
   },
   {
-    "key": "BE",
+    "key": "Belgium",
     "latitude": 50.503887,
     "longitude": 4.469936,
     "name": "Belgium"
@@ -132,7 +132,7 @@
     "name": "Burkina Faso"
   },
   {
-    "key": "BG",
+    "key": "Bulgaria",
     "latitude": 42.733883,
     "longitude": 25.48583,
     "name": "Bulgaria"
@@ -168,13 +168,13 @@
     "name": "Bermuda"
   },
   {
-    "key": "BN",
+    "key": "Brunei Darussalam",
     "latitude": 4.535277,
     "longitude": 114.727669,
     "name": "Brunei"
   },
   {
-    "key": "BO",
+    "key": "Bolivia",
     "latitude": -16.290154,
     "longitude": -63.588653,
     "name": "Bolivia"
@@ -216,19 +216,19 @@
     "name": "Botswana"
   },
   {
-    "key": "BY",
+    "key": "Belarus",
     "latitude": 53.709807,
     "longitude": 27.953389,
     "name": "Belarus"
   },
   {
-    "key": "BZ",
+    "key": "Belize",
     "latitude": 17.189877,
     "longitude": -88.49765,
     "name": "Belize"
   },
   {
-    "key": "CA",
+    "key": "Canada",
     "latitude": 56.130366,
     "longitude": -106.346771,
     "name": "Canada"
@@ -258,7 +258,7 @@
     "name": "Congo [Republic]"
   },
   {
-    "key": "CH",
+    "key": "Switzerland",
     "latitude": 46.818188,
     "longitude": 8.227512,
     "name": "Switzerland"
@@ -276,31 +276,31 @@
     "name": "Cook Islands"
   },
   {
-    "key": "CL",
+    "key": "Chile",
     "latitude": -35.675147,
     "longitude": -71.542969,
     "name": "Chile"
   },
   {
-    "key": "CM",
+    "key": "Cameroon",
     "latitude": 7.369722,
     "longitude": 12.354722,
     "name": "Cameroon"
   },
   {
-    "key": "CN",
+    "key": "China",
     "latitude": 35.86166,
     "longitude": 104.195397,
     "name": "China"
   },
   {
-    "key": "CO",
+    "key": "Colombia",
     "latitude": 4.570868,
     "longitude": -74.297333,
     "name": "Colombia"
   },
   {
-    "key": "CR",
+    "key": "Costa Rica",
     "latitude": 9.748917,
     "longitude": -83.753428,
     "name": "Costa Rica"
@@ -318,7 +318,7 @@
     "name": "Cape Verde"
   },
   {
-    "key": "CW",
+    "key": "Curacao",
     "latitude": 12.1695700,
     "longitude": -68.9900200,
     "name": "Curaçao"
@@ -330,13 +330,13 @@
     "name": "Christmas Island"
   },
   {
-    "key": "CY",
+    "key": "Cyprus",
     "latitude": 35.126413,
     "longitude": 33.429859,
     "name": "Cyprus"
   },
   {
-    "key": "CZ",
+    "key": "Czech Republic",
     "latitude": 49.817492,
     "longitude": 15.472962,
     "name": "Czech Republic"
@@ -354,7 +354,7 @@
     "name": "Djibouti"
   },
   {
-    "key": "DK",
+    "key": "Denmark",
     "latitude": 56.26392,
     "longitude": 9.501785,
     "name": "Denmark"
@@ -366,31 +366,31 @@
     "name": "Dominica"
   },
   {
-    "key": "DO",
+    "key": "Dominican Republic",
     "latitude": 18.735693,
     "longitude": -70.162651,
     "name": "Dominican Republic"
   },
   {
-    "key": "DZ",
+    "key": "Algeria",
     "latitude": 28.033886,
     "longitude": 1.659626,
     "name": "Algeria"
   },
   {
-    "key": "EC",
+    "key": "Ecuador",
     "latitude": -1.831239,
     "longitude": -78.183406,
     "name": "Ecuador"
   },
   {
-    "key": "EE",
+    "key": "Estonia",
     "latitude": 58.595272,
     "longitude": 25.013607,
     "name": "Estonia"
   },
   {
-    "key": "EG",
+    "key": "Egypt",
     "latitude": 26.820553,
     "longitude": 30.802498,
     "name": "Egypt"
@@ -408,7 +408,7 @@
     "name": "Eritrea"
   },
   {
-    "key": "ES",
+    "key": "Spain",
     "latitude": 40.463667,
     "longitude": -3.74922,
     "name": "Spain"
@@ -420,13 +420,13 @@
     "name": "Ethiopia"
   },
   {
-    "key": "FI",
+    "key": "Finland",
     "latitude": 61.92411,
     "longitude": 25.748151,
     "name": "Finland"
   },
   {
-    "key": "FJ",
+    "key": "Fiji",
     "latitude": -16.578193,
     "longitude": 179.414413,
     "name": "Fiji"
@@ -474,7 +474,7 @@
     "name": "Grenada"
   },
   {
-    "key": "GE",
+    "key": "Georgia",
     "latitude": 42.315407,
     "longitude": 43.356892,
     "name": "Georgia"
@@ -486,13 +486,13 @@
     "name": "French Guiana"
   },
   {
-    "key": "GG",
+    "key": "Guernsey",
     "latitude": 49.465691,
     "longitude": -2.585278,
     "name": "Guernsey"
   },
   {
-    "key": "GH",
+    "key": "Ghana",
     "latitude": 7.946527,
     "longitude": -1.023194,
     "name": "Ghana"
@@ -534,7 +534,7 @@
     "name": "Equatorial Guinea"
   },
   {
-    "key": "GR",
+    "key": "Greece",
     "latitude": 39.074208,
     "longitude": 21.824312,
     "name": "Greece"
@@ -546,7 +546,7 @@
     "name": "South Georgia and the South Sandwich Islands"
   },
   {
-    "key": "GT",
+    "key": "Guatemala",
     "latitude": 15.783471,
     "longitude": -90.230759,
     "name": "Guatemala"
@@ -588,31 +588,31 @@
     "name": "Heard Island and McDonald Islands"
   },
   {
-    "key": "HN",
+    "key": "Honduras",
     "latitude": 15.199999,
     "longitude": -86.241905,
     "name": "Honduras"
   },
   {
-    "key": "HR",
+    "key": "Croatia",
     "latitude": 45.1,
     "longitude": 15.2,
     "name": "Croatia"
   },
   {
-    "key": "HT",
+    "key": "Haiti",
     "latitude": 18.971187,
     "longitude": -72.285215,
     "name": "Haiti"
   },
   {
-    "key": "HU",
+    "key": "Hungary",
     "latitude": 47.162494,
     "longitude": 19.503304,
     "name": "Hungary"
   },
   {
-    "key": "ID",
+    "key": "Indonesia",
     "latitude": -0.789275,
     "longitude": 113.921327,
     "name": "Indonesia"
@@ -636,7 +636,7 @@
     "name": "Isle of Man"
   },
   {
-    "key": "IN",
+    "key": "India",
     "latitude": 20.593684,
     "longitude": 78.96288,
     "name": "India"
@@ -648,13 +648,13 @@
     "name": "British Indian Ocean Territory"
   },
   {
-    "key": "IQ",
+    "key": "Iraq",
     "latitude": 33.223191,
     "longitude": 43.679291,
     "name": "Iraq"
   },
   {
-    "key": "IR",
+    "key": "Iran Islamic Republic of",
     "latitude": 32.427908,
     "longitude": 53.688046,
     "name": "Iran"
@@ -678,13 +678,13 @@
     "name": "Jersey"
   },
   {
-    "key": "JM",
+    "key": "Jamaica",
     "latitude": 18.109581,
     "longitude": -77.297508,
     "name": "Jamaica"
   },
   {
-    "key": "JO",
+    "key": "Jordan",
     "latitude": 30.585164,
     "longitude": 36.238414,
     "name": "Jordan"
@@ -696,7 +696,7 @@
     "name": "Japan"
   },
   {
-    "key": "KE",
+    "key": "Kenya",
     "latitude": -0.023559,
     "longitude": 37.906193,
     "name": "Kenya"
@@ -708,7 +708,7 @@
     "name": "Kyrgyzstan"
   },
   {
-    "key": "KH",
+    "key": "Cambodia",
     "latitude": 12.565679,
     "longitude": 104.990963,
     "name": "Cambodia"
@@ -732,31 +732,31 @@
     "name": "Saint Kitts and Nevis"
   },
   {
-    "key": "KP",
+    "key": "North Korea",
     "latitude": 40.339852,
     "longitude": 127.510093,
     "name": "North Korea"
   },
   {
-    "key": "KR",
+    "key": "Korea Republic of",
     "latitude": 35.907757,
     "longitude": 127.766922,
     "name": "South Korea"
   },
   {
-    "key": "KW",
+    "key": "Kuwait",
     "latitude": 29.31166,
     "longitude": 47.481766,
     "name": "Kuwait"
   },
   {
-    "key": "KY",
+    "key": "Cayman Islands",
     "latitude": 19.513469,
     "longitude": -80.566956,
     "name": "Cayman Islands"
   },
   {
-    "key": "KZ",
+    "key": "Kazakhstan",
     "latitude": 48.019573,
     "longitude": 66.923684,
     "name": "Kazakhstan"
@@ -768,7 +768,7 @@
     "name": "Laos"
   },
   {
-    "key": "LB",
+    "key": "Lebanon",
     "latitude": 33.854721,
     "longitude": 35.862285,
     "name": "Lebanon"
@@ -804,31 +804,31 @@
     "name": "Lesotho"
   },
   {
-    "key": "LT",
+    "key": "Lithuania",
     "latitude": 55.169438,
     "longitude": 23.881275,
     "name": "Lithuania"
   },
   {
-    "key": "LU",
+    "key": "Luxembourg",
     "latitude": 49.815273,
     "longitude": 6.129583,
     "name": "Luxembourg"
   },
   {
-    "key": "LV",
+    "key": "Latvia",
     "latitude": 56.879635,
     "longitude": 24.603189,
     "name": "Latvia"
   },
   {
-    "key": "LY",
+    "key": "Libyan Arab Jamahiriya",
     "latitude": 26.3351,
     "longitude": 17.228331,
     "name": "Libya"
   },
   {
-    "key": "MA",
+    "key": "Morocco",
     "latitude": 31.791702,
     "longitude": -7.09262,
     "name": "Morocco"
@@ -840,7 +840,7 @@
     "name": "Monaco"
   },
   {
-    "key": "MD",
+    "key": "Moldova Republic of",
     "latitude": 47.411631,
     "longitude": 28.369885,
     "name": "Moldova"
@@ -870,7 +870,7 @@
     "name": "Marshall Islands"
   },
   {
-    "key": "MK",
+    "key": "Macedonia",
     "latitude": 41.608635,
     "longitude": 21.745275,
     "name": "Macedonia [FYROM]"
@@ -894,7 +894,7 @@
     "name": "Mongolia"
   },
   {
-    "key": "MO",
+    "key": "Macao",
     "latitude": 22.198745,
     "longitude": 113.543873,
     "name": "Macau"
@@ -924,13 +924,13 @@
     "name": "Montserrat"
   },
   {
-    "key": "MT",
+    "key": "Malta",
     "latitude": 35.937496,
     "longitude": 14.375416,
     "name": "Malta"
   },
   {
-    "key": "MU",
+    "key": "Mauritius",
     "latitude": -20.348404,
     "longitude": 57.552152,
     "name": "Mauritius"
@@ -948,13 +948,13 @@
     "name": "Malawi"
   },
   {
-    "key": "MX",
+    "key": "Mexico",
     "latitude": 23.634501,
     "longitude": -102.552784,
     "name": "Mexico"
   },
   {
-    "key": "MY",
+    "key": "Malaysia",
     "latitude": 4.210484,
     "longitude": 101.975766,
     "name": "Malaysia"
@@ -966,7 +966,7 @@
     "name": "Mozambique"
   },
   {
-    "key": "NA",
+    "key": "Namibia",
     "latitude": -22.95764,
     "longitude": 18.49041,
     "name": "Namibia"
@@ -990,13 +990,13 @@
     "name": "Norfolk Island"
   },
   {
-    "key": "NG",
+    "key": "Nigeria",
     "latitude": 9.081999,
     "longitude": 8.675277,
     "name": "Nigeria"
   },
   {
-    "key": "NI",
+    "key": "Nicaragua",
     "latitude": 12.865416,
     "longitude": -85.207229,
     "name": "Nicaragua"
@@ -1008,7 +1008,7 @@
     "name": "Netherlands"
   },
   {
-    "key": "NO",
+    "key": "Norway",
     "latitude": 60.472024,
     "longitude": 8.468946,
     "name": "Norway"
@@ -1032,7 +1032,7 @@
     "name": "Niue"
   },
   {
-    "key": "NZ",
+    "key": "New Zealand",
     "latitude": -40.900557,
     "longitude": 174.885971,
     "name": "New Zealand"
@@ -1044,13 +1044,13 @@
     "name": "Oman"
   },
   {
-    "key": "PA",
+    "key": "Panama",
     "latitude": 8.537981,
     "longitude": -80.782127,
     "name": "Panama"
   },
   {
-    "key": "PE",
+    "key": "Peru",
     "latitude": -9.189967,
     "longitude": -75.015152,
     "name": "Peru"
@@ -1068,19 +1068,19 @@
     "name": "Papua New Guinea"
   },
   {
-    "key": "PH",
+    "key": "Philippines",
     "latitude": 12.879721,
     "longitude": 121.774017,
     "name": "Philippines"
   },
   {
-    "key": "PK",
+    "key": "Pakistan",
     "latitude": 30.375321,
     "longitude": 69.345116,
     "name": "Pakistan"
   },
   {
-    "key": "PL",
+    "key": "Poland",
     "latitude": 51.919438,
     "longitude": 19.145136,
     "name": "Poland"
@@ -1098,19 +1098,19 @@
     "name": "Pitcairn Islands"
   },
   {
-    "key": "PR",
+    "key": "Puerto Rico",
     "latitude": 18.220833,
     "longitude": -66.590149,
     "name": "Puerto Rico"
   },
   {
-    "key": "PS",
+    "key": "Palestinian Territory",
     "latitude": 31.952162,
     "longitude": 35.233154,
     "name": "Palestinian Territories"
   },
   {
-    "key": "PT",
+    "key": "Portugal",
     "latitude": 39.399872,
     "longitude": -8.224454,
     "name": "Portugal"
@@ -1122,31 +1122,31 @@
     "name": "Palau"
   },
   {
-    "key": "PY",
+    "key": "Paraguay",
     "latitude": -23.442503,
     "longitude": -58.443832,
     "name": "Paraguay"
   },
   {
-    "key": "QA",
+    "key": "Qatar",
     "latitude": 25.354826,
     "longitude": 51.183884,
     "name": "Qatar"
   },
   {
-    "key": "RE",
+    "key": "Reunion",
     "latitude": -21.115141,
     "longitude": 55.536384,
     "name": "Réunion"
   },
   {
-    "key": "RO",
+    "key": "Romania",
     "latitude": 45.943161,
     "longitude": 24.96676,
     "name": "Romania"
   },
   {
-    "key": "RS",
+    "key": "Serbia",
     "latitude": 44.016521,
     "longitude": 21.005859,
     "name": "Serbia"
@@ -1158,13 +1158,13 @@
     "name": "Russia"
   },
   {
-    "key": "RW",
+    "key": "Rwanda",
     "latitude": -1.940278,
     "longitude": 29.873888,
     "name": "Rwanda"
   },
   {
-    "key": "SA",
+    "key": "Saudi Arabia",
     "latitude": 23.885942,
     "longitude": 45.079162,
     "name": "Saudi Arabia"
@@ -1182,7 +1182,7 @@
     "name": "Seychelles"
   },
   {
-    "key": "SD",
+    "key": "Sudan",
     "latitude": 12.862807,
     "longitude": 30.217636,
     "name": "Sudan"
@@ -1206,7 +1206,7 @@
     "name": "Saint Helena"
   },
   {
-    "key": "SI",
+    "key": "Slovenia",
     "latitude": 46.151241,
     "longitude": 14.995463,
     "name": "Slovenia"
@@ -1218,7 +1218,7 @@
     "name": "Svalbard and Jan Mayen"
   },
   {
-    "key": "SK",
+    "key": "Slovakia",
     "latitude": 48.669026,
     "longitude": 19.699024,
     "name": "Slovakia"
@@ -1248,7 +1248,7 @@
     "name": "Somalia"
   },
   {
-    "key": "SR",
+    "key": "Suriname",
     "latitude": 3.919305,
     "longitude": -56.027783,
     "name": "Suriname"
@@ -1260,19 +1260,19 @@
     "name": "São Tomé and Príncipe"
   },
   {
-    "key": "SV",
+    "key": "El Salvador",
     "latitude": 13.794185,
     "longitude": -88.89653,
     "name": "El Salvador"
   },
   {
-    "key": "SX",
+    "key": "Sint Maarten",
     "latitude": 18.030827,
     "longitude": -63.073633,
     "name": "Sint Maarten"
   },
   {
-    "key": "SY",
+    "key": "Syrian Arab Republic",
     "latitude": 34.802075,
     "longitude": 38.996815,
     "name": "Syria"
@@ -1302,13 +1302,13 @@
     "name": "French Southern Territories"
   },
   {
-    "key": "TG",
+    "key": "Togo",
     "latitude": 8.619543,
     "longitude": 0.824782,
     "name": "Togo"
   },
   {
-    "key": "TH",
+    "key": "Thailand",
     "latitude": 15.870032,
     "longitude": 100.992541,
     "name": "Thailand"
@@ -1338,7 +1338,7 @@
     "name": "Turkmenistan"
   },
   {
-    "key": "TN",
+    "key": "Tunisia",
     "latitude": 33.886917,
     "longitude": 9.537499,
     "name": "Tunisia"
@@ -1356,7 +1356,7 @@
     "name": "Turkey"
   },
   {
-    "key": "TT",
+    "key": "Trinidad",
     "latitude": 10.691803,
     "longitude": -61.222503,
     "name": "Trinidad and Tobago"
@@ -1374,13 +1374,13 @@
     "name": "Taiwan"
   },
   {
-    "key": "TZ",
+    "key": "Tanzania United Republic of",
     "latitude": -6.369028,
     "longitude": 34.888822,
     "name": "Tanzania"
   },
   {
-    "key": "UA",
+    "key": "Ukraine",
     "latitude": 48.379433,
     "longitude": 31.16558,
     "name": "Ukraine"
@@ -1404,7 +1404,7 @@
     "name": "United States"
   },
   {
-    "key": "UY",
+    "key": "Uruguay",
     "latitude": -32.522779,
     "longitude": -55.765835,
     "name": "Uruguay"
@@ -1428,7 +1428,7 @@
     "name": "Saint Vincent and the Grenadines"
   },
   {
-    "key": "VE",
+    "key": "Venezuela",
     "latitude": 6.42375,
     "longitude": -66.58973,
     "name": "Venezuela"
@@ -1488,7 +1488,7 @@
     "name": "Mayotte"
   },
   {
-    "key": "ZA",
+    "key": "South Africa",
     "latitude": -30.559482,
     "longitude": 22.937506,
     "name": "South Africa"
