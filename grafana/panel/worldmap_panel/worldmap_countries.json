@@ -1504,5 +1504,11 @@
     "latitude": -19.015438,
     "longitude": 29.154857,
     "name": "Zimbabwe"
+  },
+  {
+    "key": "Reserved",
+    "latitude": 14.058324,
+    "longitude": 108.277199,
+    "name": "Vietnam"
   }
 ]
